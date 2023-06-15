@@ -45,6 +45,7 @@ telInput.addEventListener('input', (event) => {
     }
 })
 
+
 validFunc()
 form.addEventListener('submit', (event) => {
     event.preventDefault();
